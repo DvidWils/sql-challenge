@@ -93,4 +93,8 @@ Eight analysis queries were completed in 'Queries.sql'. They are:
 This challenge was part of a SQL-focused challenge designed to simulate real-world data engineering and analysis tasks. It demonstrates proficiency in:
 - Schema design and normalization
 - Data integrity with primary, foreign and composite keys.
+<<<<<<< HEAD:EmployeeSQL/README.md
 - Querying with joins, filters, and aggregation
+=======
+- Querying with joins, filters, and aggregation
+>>>>>>> dd357f3fb3399677afd9fd2513071c689436d2e7:EmployeeSQL/README.txt
