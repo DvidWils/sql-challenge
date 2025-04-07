@@ -20,19 +20,6 @@ The following were used:
 
 ---
 
-## 🗂️ Challenge File Structure
-
-sql challenge/
-├── EmployeeSQL/
-│   ├── data/                     # Original CSV files
-│   ├── Tables_Creation.sql      # Code to create tables
-│   ├── Queries.sql              # 8 assignment queries
-│   ├── employees_db_schema.png  # Screenshot of Entity Relationship Diagram of the tables
-│   └── README.md                # Summary of the challenge
-
-
----
-
 ## 🧱 Database Design
 
 The database includes six tables:
